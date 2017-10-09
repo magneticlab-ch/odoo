@@ -2,3 +2,8 @@
 	path = magneticlab-ch/l10n_ch_zip
 	url = git@github.com:magneticlab-ch/l10n_ch_zip.git
 	branch = 11.0
+
+[submodule "magneticlab-ch/l10n_ch_states"]
+	path = magneticlab-ch/l10n_ch_states
+	url = git@github.com:magneticlab-ch/l10n_ch_states.git
+	branch = master
