@@ -7,3 +7,8 @@
 	path = magneticlab-ch/l10n_ch_states
 	url = git@github.com:magneticlab-ch/l10n_ch_states.git
 	branch = master
+
+[submodule "magneticlab-ch/base_location"]
+	path = magneticlab-ch/base_location
+	url = git@github.com:magneticlab-ch/base_location.git
+	branch = master
