@@ -1,0 +1,4 @@
+[submodule "magneticlab-ch/l10n_ch_zip"]
+	path = magneticlab-ch/l10n_ch_zip
+	url = git@github.com:magneticlab-ch/l10n_ch_zip.git
+	branch = 11.0
